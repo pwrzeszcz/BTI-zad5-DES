@@ -6,7 +6,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab5
+namespace Zad5Des
 {
     class Program
     {
